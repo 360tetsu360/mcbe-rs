@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "byte-util",
+    "packet-builder",
+    "raknet",
+    "raknet/examples/*"
+]
